@@ -18,6 +18,7 @@ Sumário
      (8) O argumento da informalidade do comportamento
      (9) O argumento da percepção extrassensorial
 7. Máquinas que aprendem
+
 Referências
 
 1. O jogo de imitação
