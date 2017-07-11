@@ -1,3 +1,5 @@
+Alan Turing, 1950.
+
 Sumário
 
 1. O jogo da imitação
@@ -19,7 +21,6 @@ Sumário
 Referências
 
 1. O jogo de imitação
-
 
 Proponho a seguinte questão: “Podem as máquinas pensar?” A consideração disso deveria ser iniciada com definições do significado dos termos “máquinas” e “pensar”. As definições poderiam ser ordenadas de modo a refletir, na medida do possível, o uso comum das palavras, mas tal atitude é perigosa. Se os significados das palavras "máquina" e "pensar" tiverem de ser encontrados por meio de um exame de seu uso habitual, será difícil escapar à conclusão de que o significado da e a resposta à pergunta "Podem as máquinas pensar?" deverão ser procurados numa pesquisa estatística do tipo Gallup. Mas isto é absurdo. Em vez de tentar uma definição deste tipo, eu substituiria a questão por outra, que está relacionada de perto com ela e é expressa em palavras menos ambíguas.
 A nova formulação do problema pode ser descrita em termos de um jogo a que nós chamamos "jogo da imitação". É jogado por três pessoas: um homem (A), uma mulher (B), e um interrogador (C), que pode ser de qualquer dos sexos. O interrogador permanece num quarto, separado dos outros dois. O objetivo do jogo, para o interrogador, é determinar, em relação aos outros dois, qual o homem e qual a mulher. Ele os conhece por rótulos X e Y e no fim do jogo dirá ou "X é A e Y é B", ou “X é B e Y é A". É permitido ao interrogador fazer perguntas a A e B, tais como:
@@ -49,14 +50,12 @@ Pode-se alegar que, ao jogar o "jogo da imitação", a melhor estratégia para a
 
 3. As máquinas implicadas no jogo
 
-
 A pergunta que fizemos no § 1 não será totalmente definida antes que especifiquemos o que pretendemos dizer com a palavra "máquina". É natural que queiramos permitir que todo tipo de técnica de engenharia seja usado em nossas máquinas. Também desejaríamos admitir a possibilidade de um engenheiro ou uma equipe de engenheiros construir uma máquina que funcione, mas cujo modo de operação não possa ser satisfatoriamente descrito por seus construtores, porque utilizaram um método em grande parte empírico. Finalmente, queremos excluir das máquinas todos os homens de carne e osso. É difícil formular as definições de modo que satisfaçam essas três condições. Poder-se-ia, por exemplo, insistir que os membros da equipe de engenheiros fossem todos do mesmo sexo, mas isso não seria de fato satisfatório, porque é provavelmente possível criar um indivíduo completo a partir de uma única célula de — digamos - pele humana. Realizar isso seria uma proeza da técnica biológica digna dos maiores elogios, mas não estaríamos dispostos a considerá-lo como um caso de "construção de uma Isto nos induz a abandonar o requisito máquina pensante" de que todo tipo de técnica deveria ser permitido. Estamos tanto mais prontos a abandoná-lo quanto se sabe que o atual interesse por "máquinas pensantes" foi despertado por um tipo particular de máquina, geralmente chamado de “computador eletrônico" ou “computador digital". Seguindo tal sugestão, só permitimos que computadores digitais tomem parte em nosso jogo.
 Essa restrição parece, à primeira vista, muito drástica. Tentarei mostrar que não é assim. Mas isso exige uma breve explicação da natureza e propriedade desses computadores.
 Também se poderia dizer que essa identificação de máquinas com computadores digitais, tanto quanto nosso critério de “pensar”, só será insatisfatório se (contrariamente à minha crença), os computadores digitais se revelarem incapazes de uma boa demonstração no jogo.
 Já há certo número de computadores digitais em funcionamento, e pode-se perguntar “Por que não tentar a experiência imediatamente? Seria fácil satisfazer as condições do jogo. Certo número de interrogadores poderia ser usado e uma estatística compilada para mostrar a frequência com que a identificação certa fosse dada". A resposta imediata é que não estamos perguntando se todos os computadores digitais fariam boa figura no jogo nem se os computadores presentemente disponíveis teriam bom desempenho, e sim se existem computadores imagináveis capazes de tanto. Mas isso é unicamente a resposta imediata. Veremos a questão mais tarde, sob um aspecto diferente.
 
 4. Computadores digitais
-
 
 A ideia que existe atrás de computadores digitais pode ser explicada, dizendo-se que essas máquinas são planejadas para realizar quaisquer operações passíveis de serem feitas por um computador humano. O computador humano deve seguir regras fixas; não tem autoridade para se desviar delas em nenhum detalhe. Podemos supor que essas regras sejam fornecidas por um livro, alterado sempre que ao operador se confie novo trabalho. O operador dispõe também de um suprimento ilimitado de papéis onde fazer seus cálculos. Ele também pode fazer suas multiplicações e adições numa máquina de calcular de mesa, mas isto não é importante.
 Se usarmos a explicação acima como uma definição, estaremos em perigo de cair num argumento circular. Nós o evitaremos dando um esboço dos meios pelos quais o efeito desejado é alcançado. Um computador digital pode ser usualmente visto como consistindo de três partes:
