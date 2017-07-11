@@ -8,10 +8,15 @@ Sumário
 4. Computadores digitais
 5. A universalidade dos computadores digitais
 6. Opiniões contrárias acerca da questão principal
+
      (1) A objeção teológica
+     
      (2) A objeção das "Cabeças na Areia"
+     
      (3) A objeção matemática
+     
      (4) O argumento da consciência
+     
      (5) Argumentos de várias incapacidades
      (6) As objeções de Lady Lovelace
      (7) O argumento da continuidade do sistema nervoso
