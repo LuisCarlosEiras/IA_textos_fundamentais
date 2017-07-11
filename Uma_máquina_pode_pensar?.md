@@ -18,9 +18,13 @@ Sumário
      (4) O argumento da consciência
      
      (5) Argumentos de várias incapacidades
+     
      (6) As objeções de Lady Lovelace
+     
      (7) O argumento da continuidade do sistema nervoso
+     
      (8) O argumento da informalidade do comportamento
+     
      (9) O argumento da percepção extrassensorial
 7. Máquinas que aprendem
 
